@@ -1,0 +1,1 @@
+# veri_tabani_sistemleri_8
