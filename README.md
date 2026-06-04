@@ -20,7 +20,8 @@ Projede arayüz tamamen özelleştirilmiş olup, "Koyu Lila" (Dark Lilac) renk t
 * **Arayüz (UI):** XML (LinearLayout, özel ListView tasarımı)
 * **Geliştirme Ortamı:** Android Studio
 
-📸 Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
+
 <img width="412" height="862" alt="SS1" src="https://github.com/user-attachments/assets/99497b5a-8ac5-4328-b0ba-9b905614efb7" />
 <img width="360" height="843" alt="SS2" src="https://github.com/user-attachments/assets/b947ddae-bf04-45eb-bbd8-3cc33c36c265" />
 <img width="357" height="825" alt="SS3" src="https://github.com/user-attachments/assets/137f77bf-585a-4d4a-9784-777ab964c901" />
